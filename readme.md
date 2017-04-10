@@ -14,7 +14,7 @@
 
 ## 安装方式
 
-1. 下载[wx_code_highlight.crx](https://github.com/imlinhanchao/crx_wx_code_highlight/raw/master/wx_code_highlight.crx)；  
+1. 下载[wx_code_highlight.crx](https://github.com/yezige/crx_demo_wx_code_highlight/raw/master/wx_code_highlight.crx)；  
 2. 打开`chrome://extensions/`，将开发者模式打开。  
 3. 将 **wx_code_highlight.crx** 拖拽进去即可。
 4. 重启浏览器
